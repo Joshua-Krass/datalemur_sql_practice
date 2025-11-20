@@ -2,5 +2,5 @@ This is a repo of Josh Krassenstein's responses to each of the SQL practice ques
 
 Current status (free tier)
 Easy: 21/21 ✅
-Medium: 6/18
+Medium: 7/18
 Hard: 1/14
